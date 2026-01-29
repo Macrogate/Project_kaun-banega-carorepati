@@ -48,4 +48,4 @@ To run this project on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/kbc-cpp-edition.git](https://github.com/your-username/kbc-cpp-edition.git)
+   git clone [https://github.com/Macrogate/kbc-cpp-edition.git](https://github.com/Macrogate/kbc-cpp-edition.git)
